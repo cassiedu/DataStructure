@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2513801-9cae-4031-9a4d-7b94728f9291" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X0hYZ3otCo8yBJuVKNnIUdsZmz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StructAlgorithm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.MergeSortModel">
+    <configuration name="ArrayQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.ArrayQueueDemo" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleArrayQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.CircleArrayQueueDemo" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HuffmanTree.HuffmanCode" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HuffmanTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HuffmanTree.HuffmanTree" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HuffmanTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.MergeSortModel" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MergeSortModel" />
+        <item itemvalue="Application.HuffmanTree" />
+        <item itemvalue="Application.HuffmanCode" />
+        <item itemvalue="Application.CircleArrayQueueDemo" />
+        <item itemvalue="Application.ArrayQueueDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2513801-9cae-4031-9a4d-7b94728f9291" name="Default Changelist" comment="" />
+      <created>1580188967280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580188967280</updated>
+      <workItem from="1580188970753" duration="20964000" />
+      <workItem from="1580436021758" duration="47952000" />
+      <workItem from="1580865431362" duration="22242000" />
+      <workItem from="1580988729296" duration="9107000" />
+      <workItem from="1581035496951" duration="23537000" />
+      <workItem from="1581148100651" duration="41990000" />
+      <workItem from="1581489283490" duration="470000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="842" y="376" key="#Notifications" timestamp="1592631198280">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="842" y="376" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1592631198280" />
+    <state x="984" y="471" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589966345185">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="984" y="471" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1589966345185" />
+    <state x="884" y="196" key="FileChooserDialogImpl" timestamp="1589935270792">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="884" y="196" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1589935270792" />
+    <state x="1073" y="630" width="375" height="173" key="Github.CreateGistDialog" timestamp="1592631395963">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1073" y="630" width="375" height="173" key="Github.CreateGistDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1592631395963" />
+    <state x="1109" y="608" key="Github.ShareDialog" timestamp="1592631179923">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1109" y="608" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1592631179923" />
+    <state width="1538" height="279" key="GridCell.Tab.0.bottom" timestamp="1591939619989">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1538" height="279" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591939619989" />
+    <state width="1538" height="279" key="GridCell.Tab.0.center" timestamp="1591939619989">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1538" height="279" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591939619989" />
+    <state width="1538" height="279" key="GridCell.Tab.0.left" timestamp="1591939619989">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1538" height="279" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591939619989" />
+    <state width="1538" height="279" key="GridCell.Tab.0.right" timestamp="1591939619989">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1538" height="279" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591939619989" />
+    <state x="908" y="86" width="1538" height="279" key="GridCell.Tab.1.bottom" timestamp="1591939619989">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1538" height="279" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591939619989" />
+    <state x="908" y="86" width="1538" height="279" key="GridCell.Tab.1.center" timestamp="1591939619989">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1538" height="279" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591939619989" />
+    <state x="908" y="86" width="1538" height="279" key="GridCell.Tab.1.left" timestamp="1591939619989">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1538" height="279" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591939619989" />
+    <state x="908" y="86" width="1538" height="279" key="GridCell.Tab.1.right" timestamp="1591939619989">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1538" height="279" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591939619989" />
+    <state x="751" y="359" key="SettingsEditor" timestamp="1592631373433">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="751" y="359" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1592631373433" />
+    <state x="650" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1590352098080">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="650" y="338" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1590352098080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/queue/ArrayQueueDemo.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/queue/CircleArrayQueueDemo.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/queue/CircleArrayQueueDemo.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/queue/ArrayQueueDemoModel.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/queue/ArrayQueueDemoModel.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/queue/ArrayQueueDemoModel.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/QuickSort.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hashtable/HashTableModel.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedlist/SingleLinkedListDemoModel.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hashtable/HashTable.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hashtable/HashTable.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/BinarySortTrees.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/search/BinarySearch.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/search/InsertSearch.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/search/FibonacciSearch.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/ThreadBinaryTree.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/HeapSortModel.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/HeapSortModel.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/HeapSortModel.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HuffmanTree/HuffmanCodeModel.java</url>
+          <line>356</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AVLtree/AVLTrees.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/GraphModel.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HuffmanTree/HuffmanTree.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/MergeSortModel.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/MergeSortModel.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/MergeSortModel.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DataStructure$HuffmanCodeTree.ic" NAME="HuffmanCodeTree Coverage Results" MODIFIED="1583128715262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>HuffmanTree.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataStructure$HashTable.ic" NAME="HashTable Coverage Results" MODIFIED="1581926270252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>hashtable.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataStructure$DoubleLinkedListDemo.ic" NAME="DoubleLinkedListDemo Coverage Results" MODIFIED="1580983938526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>linkedlist.*</FILTER>
+    </SUITE>
+  </component>
+</project>
